@@ -9,7 +9,9 @@ body {
   margin: 0;
   height: 100vh;
   overflow: hidden;
+  background-color : red;
 }
+
 
 h4 {
   font-size: 20px;
